@@ -1,2 +1,2 @@
 # luhncheck
-Small Nim library to perform Luhn algorithm check.
+Implementation of Luhn algorithm in nim.
