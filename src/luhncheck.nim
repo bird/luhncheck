@@ -1,5 +1,4 @@
 from strutils import parseInt
-from system import toOpenArray
 from algorithm import reversed
 from math import floor
 
